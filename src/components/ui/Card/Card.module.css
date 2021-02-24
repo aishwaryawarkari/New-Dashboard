@@ -1,0 +1,39 @@
+h4 {
+  margin-top: -4px;
+  font-size: 17px;
+}
+h3 {
+  margin-top: 0px;
+}
+
+p {
+  margin-top: 10px;
+}
+.OtherFoldersCard {
+  margin-top: 10px;
+  border-radius: 32px !important;
+  height: 90px;
+  border: none !important;
+  padding-top: 5px;
+  margin-bottom: 20px;
+}
+.FavFolderCard {
+  margin-top: 10px;
+  border-radius: 50px !important;
+  height: 80px;
+}
+.cardImage {
+  margin-top: 15px;
+}
+.OutlineCard {
+  border-radius: 30px !important;
+  width: 80px !important;
+}
+.file {
+  width: 50px;
+}
+.list {
+  font-size: 18px;
+  color: #aaa3a2;
+  margin-top: 10px;
+}

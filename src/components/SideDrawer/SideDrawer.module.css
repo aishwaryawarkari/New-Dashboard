@@ -1,0 +1,23 @@
+.icons {
+  font-size: 23px;
+  color: #b5bcc6;
+  margin: 2px 0;
+  padding: 10px 10px;
+}
+.icons:active,
+.icons:hover,
+.icons.active .icons.selected {
+  background-color: #2a988f;
+  border-radius: 50%;
+}
+
+.menu {
+  color: #9aa8ba;
+  margin-right: 10px;
+}
+.menu:hover {
+  background: none !important;
+}
+.avatar {
+  margin-top: 80px !important;
+}

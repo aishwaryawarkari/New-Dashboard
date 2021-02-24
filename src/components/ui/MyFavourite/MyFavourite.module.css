@@ -1,0 +1,11 @@
+h1 {
+  font-size: 26px;
+  font-weight: 900;
+}
+.contain {
+  margin-top: 50px !important;
+}
+.subtitle {
+  margin-top: -23px !important;
+  color: #ababab;
+}
